@@ -1,4 +1,7 @@
 {
-  "users": 600,
-  "products": 644
+  "users": 644,
+  "products": 644,
+  "petDonation": 644,
+	"profile": 644,
+	"cart": 600
 }

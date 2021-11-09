@@ -4,10 +4,54 @@
       "email": "kenzinho@mail.com",
       "password": "$2a$10$YQiiz0ANVwIgpOjYXPxc0O9H2XeX3m8OoY1xk7OGgxTnOJnsZU7FO",
       "name": "Kenzinho",
-      "age": 38,
-      "id": 1
+      "foundationDate": "0/0/0",
+      "birthDate": "",
+      "location": "Palhoça",
+      "cnpj": "",
+      "donor": false,
+      "id": 1,
+      "type": "ONG",
+      "weNeed": "Precisamos de 400kg de ração para gatos este mês"
+    }
+  ], 
+
+	"profile": [
+		{
+			"description": "Somos uma ONG onde pegamos animais de rua e procuramos um lar feliz para o animal",
+			"residence": "Casa",
+			"financialRent": 3000.00,
+			"hasAPet": 2,
+			"animalsSpecies": "Cachorro", 
+			"numberOfCats": 300,
+			"numberOfDogs": 500,
+			"id": 1,
+			"userId": 1 
+		}
+	], 
+
+  "petDonation": [
+    {
+      "foundLocation": "São José",
+      "location": "Palhoça",
+			"state": "SC",
+      "animalSize": "Médio",
+      "breed": "American staffordshire terrier",
+      "fur": "Curto",
+      "age": 8,
+      "infirmity": "Saudável",
+      "otherAnimals": "Amigável",
+      "personBehavior": "Amigável",
+      "personality": "Agitado",
+      "sex": "Macho",
+      "vaccinated": true,
+			"castrated": true,
+      "description": "Sociável com outros animais, gosta de carinho e passear, vacinas v10...",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/6/66/AMERICAN_STAFFORDSHIRE_TERRIER%2C_Zican%E2%80%99s_Bz_Ez_Dragon_%2824208348891%29.2.jpg", 
+      "id": 1,
+      "userId": 1
     }
   ],
+
   "products": [
     {
       "id": 1,
@@ -619,5 +663,18 @@
       "species": "dogs",
       "userId": 1
     }
-  ]
+  ],
+
+	"cart": [
+		{
+			"title": "Ração Úmida Pet Delícia Natural Risotinho de Frango Fácil Digestão",
+      "description": "Não contém carnes mecanicamente separada, altamente palatável e digestível",
+      "img": "https://www.petlove.com.br/images/products/250026/product/Ra%C3%A7%C3%A3o_%C3%9Amida_Pet_Del%C3%ADcia_Natural_Risotinho_de_Frango_F%C3%A1cil_Digest%C3%A3o_-_320_g_1214638_%285%29.jpg?1635450658",
+      "price": 14.39,
+      "category": "ração",
+      "species": "dogs",
+			"id": 1,
+      "userId": 1
+		}
+	]
 }
