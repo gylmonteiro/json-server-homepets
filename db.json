@@ -11,22 +11,22 @@
       "donor": false,
       "type": "ONG",
       "weNeed": "Precisamos de 400kg de ração para gatos este mês",
-			"description": "Somos uma ONG onde pegamos animais de rua e procuramos um lar feliz para o animal",
-			"residence": "Casa",
-			"financialRent": 3000.00,
-			"hasAPet": 2,
-			"animalsSpecies": "Cachorro", 
-			"numberOfCats": 300,
-			"numberOfDogs": 500,
+      "description": "Somos uma ONG onde pegamos animais de rua e procuramos um lar feliz para o animal",
+      "residence": "Casa",
+      "financialRent": 3000.0,
+      "hasAPet": 2,
+      "animalsSpecies": "Cachorro",
+      "numberOfCats": 300,
+      "numberOfDogs": 500,
       "id": 1
     }
-  ], 
+  ],
 
   "petDonation": [
     {
       "foundLocation": "São José",
       "city": "Palhoça",
-			"state": "SC",
+      "state": "SC",
       "animalSize": "Médio",
       "breed": "American staffordshire terrier",
       "fur": "Curto",
@@ -37,10 +37,90 @@
       "personality": "Agitado",
       "sex": "Macho",
       "vaccinated": true,
-			"castrated": true,
+      "castrated": true,
       "description": "Sociável com outros animais, gosta de carinho e passear, vacinas v10...",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/6/66/AMERICAN_STAFFORDSHIRE_TERRIER%2C_Zican%E2%80%99s_Bz_Ez_Dragon_%2824208348891%29.2.jpg", 
+      "img": "https://upload.wikimedia.org/wikipedia/commons/6/66/AMERICAN_STAFFORDSHIRE_TERRIER%2C_Zican%E2%80%99s_Bz_Ez_Dragon_%2824208348891%29.2.jpg",
       "id": 1,
+      "userId": 1
+    },
+    {
+      "foundLocation": "Ibaiti",
+      "city": "Ibaiti",
+      "state": "PR",
+      "animalSize": "Médio",
+      "breed": "Vira Lata",
+      "fur": "Curto",
+      "age": 2,
+      "infirmity": "Saudável",
+      "otherAnimals": "Amigável",
+      "personBehavior": "Amigável",
+      "personality": "Calmo",
+      "sex": "Fêmea",
+      "vaccinated": false,
+      "castrated": false,
+      "description": "Sociável com outros animais, gosta de carinho e passear...",
+      "img": "https://www.hypeness.com.br/1/2021/08/4dfd776a-gettyimages-184314821-1024x681.jpg",
+      "id": 2,
+      "userId": 1
+    },
+    {
+      "foundLocation": "Centro",
+      "city": "Curitiba",
+      "state": "PR",
+      "animalSize": "Pequeno",
+      "breed": "Pinscher",
+      "fur": "Curto",
+      "age": 5,
+      "infirmity": "Saudável",
+      "otherAnimals": "Muito pistola",
+      "personBehavior": "Muito pistola",
+      "personality": "Muito pistola",
+      "sex": "Macho",
+      "vaccinated": false,
+      "castrated": true,
+      "description": "Muito pequeno porém a raiva que possui é equivalente a mil sóis.",
+      "img": "https://blog.cobasi.com.br/wp-content/uploads/2021/03/por-que-o-pinscher-e-tao-bravo-capa.png",
+      "id": 3,
+      "userId": 1
+    },
+    {
+      "foundLocation": "Centro",
+      "city": "São Paulo",
+      "state": "SP",
+      "animalSize": "Pequeno",
+      "breed": "Siamês",
+      "fur": "Médio",
+      "age": 1,
+      "infirmity": "Saudável",
+      "otherAnimals": "Calmo",
+      "personBehavior": "Calmo",
+      "personality": "Calmo",
+      "sex": "Fêmea",
+      "vaccinated": true,
+      "castrated": false,
+      "description": "Bem calmo, é um gato né. Seu horário de atividade é das 2 as 5 da manhã correndo por todo lado e quebrando a casa inteira.",
+      "img": "https://cdn.folhape.com.br/upload/dn_arquivo/2020/11/cat-2068462-1920.jpg",
+      "id": 4,
+      "userId": 1
+    },
+    {
+      "foundLocation": "Centro",
+      "city": "Rio de Janeiro",
+      "state": "RJ",
+      "animalSize": "Pequeno",
+      "breed": "Vira Lata",
+      "fur": "Médio",
+      "age": 6,
+      "infirmity": "Saudável",
+      "otherAnimals": "Calmo",
+      "personBehavior": "Calmo",
+      "personality": "Calmo",
+      "sex": "Fêmea",
+      "vaccinated": true,
+      "castrated": false,
+      "description": "Bem calmo, é um gato né. Seu horário de atividade é das 2 as 5 da manhã correndo por todo lado e quebrando a casa inteira.",
+      "img": "https://conviteasaude.com.br/wp-content/uploads/2020/10/gato-vira-lata-raca.jpg",
+      "id": 5,
       "userId": 1
     }
   ],
@@ -658,16 +738,16 @@
     }
   ],
 
-	"cart": [
-		{
-			"title": "Ração Úmida Pet Delícia Natural Risotinho de Frango Fácil Digestão",
+  "cart": [
+    {
+      "title": "Ração Úmida Pet Delícia Natural Risotinho de Frango Fácil Digestão",
       "description": "Não contém carnes mecanicamente separada, altamente palatável e digestível",
       "img": "https://www.petlove.com.br/images/products/250026/product/Ra%C3%A7%C3%A3o_%C3%9Amida_Pet_Del%C3%ADcia_Natural_Risotinho_de_Frango_F%C3%A1cil_Digest%C3%A3o_-_320_g_1214638_%285%29.jpg?1635450658",
       "price": 14.39,
       "category": "ração",
       "species": "dogs",
-			"id": 1,
+      "id": 1,
       "userId": 1
-		}
-	]
+    }
+  ]
 }
