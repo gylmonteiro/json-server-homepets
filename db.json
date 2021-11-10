@@ -6,17 +6,11 @@
       "name": "Kenzinho",
       "foundationDate": "0/0/0",
       "birthDate": "",
-      "location": "Palhoça",
+      "city": "Palhoça",
       "cnpj": "",
       "donor": false,
-      "id": 1,
       "type": "ONG",
-      "weNeed": "Precisamos de 400kg de ração para gatos este mês"
-    }
-  ], 
-
-	"profile": [
-		{
+      "weNeed": "Precisamos de 400kg de ração para gatos este mês",
 			"description": "Somos uma ONG onde pegamos animais de rua e procuramos um lar feliz para o animal",
 			"residence": "Casa",
 			"financialRent": 3000.00,
@@ -24,15 +18,14 @@
 			"animalsSpecies": "Cachorro", 
 			"numberOfCats": 300,
 			"numberOfDogs": 500,
-			"id": 1,
-			"userId": 1 
-		}
-	], 
+      "id": 1
+    }
+  ], 
 
   "petDonation": [
     {
       "foundLocation": "São José",
-      "location": "Palhoça",
+      "city": "Palhoça",
 			"state": "SC",
       "animalSize": "Médio",
       "breed": "American staffordshire terrier",
