@@ -50,4 +50,4 @@ POST /petDonation <br />
 GET /petDonation
 
 Para fazer o post (cadastrar um animal para a adoção) o usuário precisa estar logado e passar o token de acesso pelo headers/bearer. No corpo da requisição passar o foundLocation (onde achou o animal), city (cidade), state (estado), animalSize (porte do animal), breed (raça), fur (pelagem), age (idade), infirmity (doença, dificuldade), personBehaviour (comportamento com outras pessoas), personality (personalidade), sex (sexo), vaccinated (vacinado boolean), castrated (castrado boolean), description (descrição), img, id, userId.
-Para fazer o get não é necessário o token, já que todos tem acesso.
+Para fazer o get não é necessário o token, já que todos tem acesso..
