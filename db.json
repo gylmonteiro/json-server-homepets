@@ -13,15 +13,114 @@
       "weNeed": "Precisamos de 400kg de ração para gatos este mês",
       "description": "Somos uma ONG onde pegamos animais de rua e procuramos um lar feliz para o animal",
       "residence": "Casa",
-      "financialRent": 3000.0,
+      "financialRent": 3000,
       "hasAPet": 2,
       "animalsSpecies": "Cachorro",
       "numberOfCats": 300,
       "numberOfDogs": 500,
       "id": 1
+    },
+    {
+      "email": "donatespet@mail.com",
+      "password": "$2a$10$4PvFsUOLTEXJa1sk4fAlSuXoYf3Ts8aUYD.sGeEwkwWRmOyurnQjK",
+      "name": "Donates Pets",
+      "foundationDate": "0/0/0",
+      "birthDate": "",
+      "city": "São Bento",
+      "cnpj": "",
+      "donor": false,
+      "type": "ONG",
+      "weNeed": "Precisamos de medicação para gatos do tipo vermifugos",
+      "description": "Buscamos por animais que precisam de um espaço acolhedor",
+      "residence": "Casa",
+      "financialRent": 3000,
+      "hasAPet": 2,
+      "animalsSpecies": "Cachorro",
+      "numberOfCats": 300,
+      "numberOfDogs": 500,
+      "id": 2
+    },
+    {
+      "email": "granplus@mail.com",
+      "password": "$2a$10$WQY75Anc4x.CnaJxXGEZgewoPFQR7bYIq2lFokQmyLGOY3hy0u/Au",
+      "name": "Gran Plus Rações",
+      "foundationDate": "0/0/0",
+      "birthDate": "",
+      "city": "São Paulo",
+      "cnpj": "",
+      "donor": false,
+      "type": "PJ",
+      "weNeed": "Engajar nossos clientes em causas animais",
+      "description": "Somos uma empresa de venda de alimentação animal",
+      "residence": "Empresa",
+      "financialRent": 3000,
+      "hasAPet": 2,
+      "animalsSpecies": "Gato",
+      "numberOfCats": 300,
+      "numberOfDogs": 500,
+      "id": 3
+    },
+    {
+      "email": "goldendogs@mail.com",
+      "password": "$2a$10$Lx8sUhui2m889D7Ehj.2w.2hNrFNe/QwnYN4088pPhNZLF.dBT97e",
+      "name": "Golden Dogs",
+      "foundationDate": "0/0/0",
+      "birthDate": "",
+      "city": "Natal",
+      "cnpj": "",
+      "donor": false,
+      "type": "PJ",
+      "weNeed": "Construir uma rede de solidariedade para ajudar na alimentação de animais abandonados",
+      "description": "Somos uma empresa que preza pela qualidade do nosso produto",
+      "residence": "Empresa",
+      "financialRent": 3000,
+      "hasAPet": 2,
+      "animalsSpecies": "Cachorro",
+      "numberOfCats": 300,
+      "numberOfDogs": 500,
+      "id": 4
+    },
+    {
+      "email": "manuel@mail.com",
+      "password": "$2a$10$VZtseM1.4JB9uOdKWwKYlObsPVw1S61NBX8GJfBliEnXVn5O74wNW",
+      "name": "Manuel Carlos",
+      "foundationDate": "0/0/0",
+      "birthDate": "",
+      "city": "Sobral",
+      "cnpj": "",
+      "donor": false,
+      "type": "PF",
+      "weNeed": "",
+      "description": "",
+      "residence": "Casa",
+      "financialRent": 3000,
+      "hasAPet": 2,
+      "animalsSpecies": "Cachorro",
+      "numberOfCats": 300,
+      "numberOfDogs": 500,
+      "id": 5
+    },
+    {
+      "email": "guto@mail.com",
+      "password": "$2a$10$iG2Gb28rQQTnIRQrq3xza.zEcCRcJrWSQL86PJDqB6kKwp/PRpuBe",
+      "name": "Guto Linhares",
+      "foundationDate": "0/0/0",
+      "birthDate": "",
+      "city": "Fortaleza",
+      "cnpj": "",
+      "donor": false,
+      "type": "PF",
+      "weNeed": "",
+      "description": "",
+      "residence": "Apartamento",
+      "financialRent": 3000,
+      "hasAPet": 2,
+      "animalsSpecies": "Gato",
+      "numberOfCats": 300,
+      "numberOfDogs": 500,
+      "id": 6
     }
   ],
-
   "petDonation": [
     {
       "foundLocation": "São José",
@@ -124,7 +223,6 @@
       "userId": 1
     }
   ],
-
   "products": [
     {
       "id": 1,
@@ -737,7 +835,6 @@
       "userId": 1
     }
   ],
-
   "cart": [
     {
       "title": "Ração Úmida Pet Delícia Natural Risotinho de Frango Fácil Digestão",
