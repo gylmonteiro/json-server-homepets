@@ -123,6 +123,8 @@
   ],
   "petDonation": [
     {
+      "name": "",
+      "type": "cachorro",
       "foundLocation": "São José",
       "city": "Palhoça",
       "state": "SC",
@@ -143,6 +145,8 @@
       "userId": 1
     },
     {
+      "name": "",
+      "type": "cachorro",
       "foundLocation": "Ibaiti",
       "city": "Ibaiti",
       "state": "PR",
@@ -163,6 +167,8 @@
       "userId": 1
     },
     {
+      "name": "",
+      "type": "cachorro",
       "foundLocation": "Centro",
       "city": "Curitiba",
       "state": "PR",
@@ -183,6 +189,8 @@
       "userId": 1
     },
     {
+      "name": "",
+      "type": "gato",
       "foundLocation": "Centro",
       "city": "São Paulo",
       "state": "SP",
@@ -203,6 +211,8 @@
       "userId": 1
     },
     {
+      "name": "",
+      "type": "gato",
       "foundLocation": "Centro",
       "city": "Rio de Janeiro",
       "state": "RJ",
